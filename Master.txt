@@ -1,6 +1,6 @@
 
-<Version: 1.01>
-/img/tilesets/SF_Outside_B.png http://imgur.com/a/W48Vd
+<Version: 1.02>
+/img/tilesets/SF_Outside_B.png http://i.imgur.com/iWfWgUN.png
 /data/Map001.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map001.json
 /data/Map008.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map008.json
 /data/Map010.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map010.json
