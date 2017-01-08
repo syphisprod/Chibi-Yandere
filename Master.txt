@@ -1,1 +1,12 @@
 
+<Version: 0.3.4>
+/img/tilesets/SF_Outside_B.png http://imgur.com/a/W48Vd
+/data/Map001.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map001.json
+/data/Map008.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map008.json
+/data/Map010.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map010.json
+/data/Map011.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map011.json
+/data/Map014.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map014.json
+/data/Map017.json https://github.com/syphisprod/Chibi-Yandere/blob/master/Map017.json
+/data/Map028.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map028.json
+/js/plugins.js https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/plugins.js
+<End of Version>
