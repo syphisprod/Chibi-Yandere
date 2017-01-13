@@ -19,6 +19,6 @@
 /data/Map008.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map004.json
 <End of Version>
 
-<Version:1.04>
+<Version: 1.04>
 /js/plugins.js https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/plugins.js
 <End of Version>
