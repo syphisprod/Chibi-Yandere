@@ -10,3 +10,11 @@
 /data/Map028.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map028.json
 /js/plugins.js https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/plugins.js
 <End of Version>
+
+<Version: 1.03>
+/img/system/IconSet.png http://i.imgur.com/V14ny6G.png
+/data/Map006.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map006.json
+/data/Map007.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map007.json
+/data/Map008.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map008.json
+/data/Map008.json https://raw.githubusercontent.com/syphisprod/Chibi-Yandere/master/Map004.json
+<End of Version>
